@@ -26,3 +26,4 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+# minha linha preferida. Não quero te perder.
